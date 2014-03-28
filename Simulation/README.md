@@ -1,7 +1,8 @@
 # Simulation of a simple network
 
 
-Author : Araj P Raju <arajparaj@gmail.com>
+Author : Araj P Raju 
+		<arajparaj@gmail.com>
 
 License : GPL V2
 

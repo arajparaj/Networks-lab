@@ -1,6 +1,8 @@
 # A simple multiple client chat sever using sockets
 
-Author : Araj P Raju <arajparaj@gmail.com>
+Author : Araj P Raju 
+		 <arajparaj@gmail.com>
+		 
 License : GPL V2
 
 INSTRUCIONS

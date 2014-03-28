@@ -1,6 +1,7 @@
 # A simple HTTP proxy server
 
-Author : Araj P Raju <arajparaj@gmail.com>
+Author : Araj P Raju 
+		<arajparaj@gmail.com>
 
 License : GPL V2
 
