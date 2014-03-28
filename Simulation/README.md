@@ -9,8 +9,8 @@ License : GPL V2
 The simulation software used is ns2
 
 tracefiles--|
-			|---out.nam  	nam tracefile			
-			|
-			|---out.tr 		packet tracefile
-			|
-			|---out.tcp 	tcp tracefile
+            |---out.nam     nam tracefile			
+            |
+            |---out.tr      packet tracefile
+            |
+            |---out.tcp     tcp tracefile
